@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Empower
 - 🌱 I’m currently learning a lot about tests and QA
 - 👯 I’m looking to collaborate on front-end projects
