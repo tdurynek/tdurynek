@@ -1,8 +1,8 @@
-### Hi there 👋
-
 <p align="center">
   <img src="https://media.giphy.com/media/bcbPzkSCytDH2/giphy.gif" width="30%">
 </p>
+
+### Hi there 👋
 
 - 📫 How to reach me: https://www.linkedin.com/in/thaisdurynek/
 - 👯 I’m looking to collaborate on front-end projects
