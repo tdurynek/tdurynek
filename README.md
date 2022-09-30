@@ -6,8 +6,8 @@
 
 - 📫 How to reach me: https://www.linkedin.com/in/thaisdurynek/
 - 👯 I’m looking to collaborate on front-end projects
-- 🌱 I’m currently learning a lot about tests and QA
-- 🤔 I’m looking for help with tests and QA
-- 💬 Ask me about CSS
+- 🌱 I’m currently learning a lot about Salesforce and software architecture
+- 🤔 I’m looking for help with software testing and software architecture
+- 💬 Ask me about CSS, HTML and Javascript
 - 😄 Pronouns: ela/she
 - ⚡ Fun fact: I love musicals like Chicago, The Phantom of the Opera and etc.
